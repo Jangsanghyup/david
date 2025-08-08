@@ -44,11 +44,8 @@ if __name__ == '__main__':
 # python -O app.py
 
 # git log --oneline	각 커밋을 한 줄 요약으로 표시
-
 # git log --oneline --graph	브랜치 구조를 그래프로 시각화
-
 # git log --oneline --all	모든 브랜치의 커밋을 표시
-
 # git log --oneline -n 5	최근 5개의 커밋만 표시
 
 # 터미널에서 git log, git log --oneline, man, help 등의 명령어 실행 시:
