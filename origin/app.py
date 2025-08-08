@@ -42,3 +42,11 @@ if __name__ == '__main__':
 # Python을 최적화 모드(-O) 로 실행하면 __debug__ == False가 됩니다.
 
 # python -O app.py
+
+# git log --oneline	각 커밋을 한 줄 요약으로 표시
+
+# git log --oneline --graph	브랜치 구조를 그래프로 시각화
+
+# git log --oneline --all	모든 브랜치의 커밋을 표시
+
+# git log --oneline -n 5	최근 5개의 커밋만 표시
