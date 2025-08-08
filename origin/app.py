@@ -52,5 +52,5 @@ if __name__ == '__main__':
 # git log --oneline -n 5	최근 5개의 커밋만 표시
 
 # 터미널에서 git log, git log --oneline, man, help 등의 명령어 실행 시:
-
 # 종료 방법: q
+
